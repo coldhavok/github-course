@@ -1,3 +1,3 @@
 ﻿#Git Course
 
-Repositório de teste.
+Repositório de teste. Saiba mais em [coldhavok](https://github.com/coldhavok)
